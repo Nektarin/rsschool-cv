@@ -1,4 +1,4 @@
-#Shutikov Vlad
+# Shutikov Vlad
 
 **E-maill: vshutikov10@Gmal.com**
 
@@ -27,4 +27,4 @@ Education
 ---
 Pavel Sukhoi State Technical University of Gomel (Automation and Information Systems Faculty), Speciality: Information Systems and Technologies (in Design and Manufacture).
 
-##English level: B2
+## English level: B2
