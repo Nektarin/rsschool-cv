@@ -3,11 +3,6 @@ body {
   height: 100%;
 }
 
-img {
-  width: 10%;
-  height: 10%;
-}
-
 body {
   display: flex;
   flex-direction: column;
@@ -40,6 +35,11 @@ footer {
   flex-shrink: 1;
   flex-direction: row;
   background: #aa9380;
+}
+
+.photo {
+  height: 15%;
+  width: 15%;
 }
 
 #logo {
